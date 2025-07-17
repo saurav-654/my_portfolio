@@ -29,12 +29,11 @@ const projects = [
   },
   {
     id: 2,
-    title: "Chat Application",
-    description:
-      "This is a real-time chat application using Node.js, Express.js, and Socket.io. It allows users to join a chat, send messages, and view active participants. ",
-    image: "/chat.png?height=300&width=500",
-    technologies: ["Node.js", "Express", "Socket.io"],
-    githubUrl: "https://github.com/saurav-654/web",
+    title: "Portfolio Website",
+    description: "A responsive portfolio website with smooth animations, dark mode, and optimized performance.",
+    image: "/portfolio.png?height=300&width=500",
+    technologies: ["Next.js", "Framer Motion", "Tailwind CSS", "TypeScript"],
+    githubUrl: "https://github.com/saurav-654/my_portfolio",
   },
   {
     id: 3,
@@ -47,11 +46,12 @@ const projects = [
   },
   {
     id: 4,
-    title: "Portfolio Website",
-    description: "A responsive portfolio website with smooth animations, dark mode, and optimized performance.",
-    image: "/placeholder.svg?height=300&width=500",
-    technologies: ["Next.js", "Framer Motion", "Tailwind CSS", "TypeScript"],
-    githubUrl: "#",
+    title: "Chat Application",
+    description:
+      "This is a real-time chat application using Node.js, Express.js, and Socket.io. It allows users to join a chat, send messages, and view active participants. ",
+    image: "/chat.png?height=300&width=500",
+    technologies: ["Node.js", "Express", "Socket.io"],
+    githubUrl: "https://github.com/saurav-654/web",
   }
 ]
 
